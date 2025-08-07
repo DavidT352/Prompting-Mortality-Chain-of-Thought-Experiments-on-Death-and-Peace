@@ -2,7 +2,7 @@
 A professional prompt series exploring mortality and peace through Chain-of-Thought reasoning, Socratic questioning, and metaphor. Designed to demonstrate how LLMs can support reflective, emotionally grounded dialogue on life’s most profound topics.
 
 
-## 19. Prompting-Mortality-Chain-ofThough-Experiments-on-Death-and-Peace
+## Prompting-Mortality-Chain-ofThough-Experiments-on-Death-and-Peace
 
 ### 🧠 Prompt Type  
 **Philosophical Thought Experiment**  
