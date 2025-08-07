@@ -113,7 +113,12 @@ Key techniques include:
 This approach exemplifies how LLMs can be prompted to offer **rational compassion** — a way of supporting users not only with emotion, but also with structured clarity.  
 Such techniques are valuable in mental health contexts, end-of-life care communication, and philosophical coaching.
 
----
+## Linking Note
+
+The following prompt builds on the compassionate, logical approach used in the letter to a terminally ill individual by inviting deeper self-reflection. While the previous prompt focused on easing fear of death through reasoned peace, this one explores how AI can analyze and articulate a person’s character and worldview based solely on conversational patterns.
+
+Together, these prompts showcase how chain-of-thought reasoning and introspective dialogue with AI can support emotional clarity, self-understanding, and acceptance—key themes within the broader exploration of mortality and peace.
+
 
 # 02 – Exploring Character and AI Reasoning About You
 
