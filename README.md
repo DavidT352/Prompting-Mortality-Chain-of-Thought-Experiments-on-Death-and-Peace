@@ -133,7 +133,7 @@ Reflective Character Analysis with AI Chain-of-Thought Reasoning
 
 ### Prompt
 
-1. What would you assume about me in terms of character based on our interactions so far?
+1. What would you infer about my character based on our interactions so far??
 
 2. Based on your conversations with me, do you think I'm a materialist/atheist or someone who believes in the non physical aspect of life?
 
