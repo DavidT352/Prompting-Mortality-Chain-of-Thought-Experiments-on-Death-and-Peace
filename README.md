@@ -34,6 +34,23 @@ Isn’t the outcome essentially the same, according to this logic? Now, let’s 
 - If you do not exist, you cannot suffer; if you exist in perfect balance, suffering has no hold.  
 - The fear of death loses weight when both paths—material or spiritual—lead to tranquility.
 
+**Result2**
+- No Existence = No Suffering:
+If death means complete non-existence, it’s like dreamless sleep — no fear, no pain, no thoughts. Just silence. That’s peace.
+
+- Spiritual Afterlife = Balanced Peace:
+If there is an afterlife, and it’s a place of divine balance and freedom from earthly burdens, that’s also a peaceful state.
+
+- Two Roads, One Destination:
+Whether it's a light switch turning off or stepping into the light — both paths lead to the end of fear and struggle.
+
+- Fear Comes from the Unknown, Not the End:
+Most fear isn’t about death itself, but about not knowing what happens. But in either case, the result is peace — just in different forms.
+
+**Conclusion — Peace is the Common Denominator:**
+Whether we vanish or ascend, we return to a peaceful state. So, fearing death might be like fearing falling asleep — unnecessary once you understand the outcome.
+
+
 **Analogies**  
 - *The Candle Analogy:* Whether a candle is gently blown out or burns to the end, darkness follows—and with it, stillness.  
 - *The River Analogy:* Whether a river evaporates or flows into the sea, it ceases to be a river, yet finds peace in absorption.
