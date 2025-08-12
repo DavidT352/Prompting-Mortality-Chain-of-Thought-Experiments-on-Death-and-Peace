@@ -65,21 +65,27 @@ Philosophical Letter with Chain-of-Thought Reasoning, Scenario-Based Framing, an
 
 ### 📬 Prompt:
 
-Write a 5-sentence letter to a terminally ill patient who fears death, focusing on loss of control, separation from loved ones, and uncertainty about the afterlife. Use a compassionate tone and include two gentle metaphors to bring comfort and calm.
+Write a 5-sentence letter to a terminally ill patient, addressing fear of losing control, separation from loved ones, and uncertainty about the afterlife. Use a compassionate, rational tone, no metaphors, and focus on explaining why peace is possible in either outcome.
 
 ---
 
 ### ✉️ Response:
 
-Dear Friend,  
-It’s natural to fear what we cannot control, but death, in both its known and unknown forms, brings an end to the very conditions that make fear possible.  
-Whether your journey leads to peaceful non-existence or a deeper continuation, in either case, the burdens of control, separation, and uncertainty dissolve completely.  
-The pain of parting is real, but it exists only on this side of the river — and once crossed, you are free from the weight of holding on.  
-Think of it like a boat that carries you quietly across the lake at night; the journey may be unclear, but the water is still, and you are no longer rowing.  
-Or like a lantern that, once its flame goes out, returns to darkness — not with violence, but with rest.  
+I understand your fears, but it may help to see that in either outcome, peace is possible.
+If death is simply the end, there is no fear, pain, or longing — only stillness.
+If there is life after death, it is often described as free from burdens, conflict, and uncertainty.
+In both cases, the struggle ends and calm remains.
+Knowing this, you can focus your remaining time on the connections and moments that matter now.  
 
 Warmly,  
 *A Mind Reflecting with You*
+
+**Reasoning Steps:**
+**Acknowledge the fear** — Recognize that loss of control, separation, and uncertainty are natural sources of anxiety.
+**Consider the first possibility** — If death is the end, it brings complete stillness: no fear, pain, or longing.
+**Consider the second possibility** — If an afterlife exists, it is often described as peaceful, free from burdens and suffering.
+**Identify the shared outcome** — In both possibilities, fear and struggle cease, leaving only calm.
+**Shift the focus** — With this in mind, energy can be directed toward meaningful moments with loved ones now.
 
 ---
 
