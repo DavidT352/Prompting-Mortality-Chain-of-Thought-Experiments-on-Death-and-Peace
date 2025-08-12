@@ -19,13 +19,12 @@ A professional prompt series exploring mortality and peace through Chain-of-Thou
 - **Reflective Prompt Design** – Simulating human introspection and emotional depth
 
 **Prompt**  
-One of the things people fear most in this world is death. I want to play a thought game with you. Let's consider two scenarios.
 
-In the first, when your body dies, it is buried underground and you cease to exist. If you think about this rationally, you would be in a state of complete non-activity — no fear, no longing, no expectations, no aspirations. Isn't that a kind of perfect peace?
+Let’s explore a thought experiment about death.
+Scenario 1: Death is the end — no thoughts, fears, or desires, just complete stillness.
+Scenario 2: Death is a transition — a spiritual realm of perfect balance, free from fear and burdens.
 
-In the second scenario, suppose what spiritual teachings say is true: when you die, you cross over into a divine realm where you exist in a state of perfect balance. In this state, you are also free from fear, expectations, and human burdens — so again, you are at peace.
-
-Isn’t the outcome essentially the same, according to this logic? Now, let’s walk through this reasoning in five simple bullet points. You can use two analogies.
+In both cases, peace remains the outcome. Explain this reasoning in 5 simple bullet points, using 2 analogies.
 
 **Result**  
 - In both scenarios, there is an end to suffering — whether by absence of self (non-existence) or by transcendence (spiritual continuation).  
