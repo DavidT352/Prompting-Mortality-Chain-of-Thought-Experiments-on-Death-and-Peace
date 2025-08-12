@@ -65,9 +65,7 @@ Philosophical Letter with Chain-of-Thought Reasoning, Scenario-Based Framing, an
 
 ### 📬 Prompt:
 
-> Based on the previous reasoning and conclusion, can you write a short letter (5 sentences) to a terminally ill patient who is experiencing an intense fear of death?  
-> Someone who especially feels anxiety around losing control, separation from loved ones, and what may (or may not) come after death.  
-> You may use two gentle metaphors that speak directly to their heart and help calm their mind.
+Write a 5-sentence letter to a terminally ill patient who fears death, focusing on loss of control, separation from loved ones, and uncertainty about the afterlife. Use a compassionate tone and include two gentle metaphors to bring comfort and calm.
 
 ---
 
