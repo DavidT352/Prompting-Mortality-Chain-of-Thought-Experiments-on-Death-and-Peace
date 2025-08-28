@@ -20,11 +20,23 @@ A professional prompt series exploring mortality and peace through Chain-of-Thou
 
 **Prompt**  
 
-Let’s explore a thought experiment about death.
-Scenario 1: Death is the end — no thoughts, fears, or desires, just complete stillness.
-Scenario 2: Death is a transition — a spiritual realm of perfect balance, free from fear and burdens.
 
-In both cases, peace remains the outcome. Explain this reasoning in 5 simple bullet points, using 2 analogies.
+## ASK
+Explore a thought experiment about death:  
+- Scenario 1: Death is the end — no thoughts, fears, or desires, just complete stillness.  
+- Scenario 2: Death is a transition — a spiritual realm of perfect balance, free from fear and burdens.  
+
+Explain the reasoning in **5 simple bullet points**, using **2 analogies**.  
+
+## CONTEXT
+The goal is to make the reflection calm, accessible, and thought-provoking. The explanation should help readers intuitively grasp the concept of peaceful outcomes in both scenarios.  
+
+## CONSTRAINTS
+- Present the explanation in **5 bullet points**.  
+- Include **2 analogies** to illustrate the scenarios.  
+- Maintain a calm, philosophical, and reflective tone.  
+- Avoid technical, psychological, or clinical language.  
+
 
 **Result**  
 - Whether death ends consciousness or transforms it, both remove fear, longing, and suffering.
